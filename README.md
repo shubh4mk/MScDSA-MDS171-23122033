@@ -9,4 +9,4 @@
 |CLASS|QUESTION|LINK|
 |-------------|---------------------------------------------|------------------|
 |Lab01|Write a program to print your name and push the changes to github|["Lab01"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/LAb01.ipynb)
-|Lab02|The Name Collecter's Quest|["Lab02"](Lab02.ipynb)
+|Lab02|The Name Collecter's Quest|["Lab02"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab02.ipynb)
