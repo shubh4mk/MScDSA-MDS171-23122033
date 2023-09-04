@@ -1,7 +1,7 @@
 
-Name of the customer	:	Shubham
-Phone number	:	99999999
-Dish name	:	FriedRice
-Price of the dish	:	80
+Name of the customer	:	Shubham Kumar
+Phone number	:	0000000
+Dish name	:	poha
+Price of the dish	:	50
 Quantity of the dish	:	2
-Total Amount	:	2
+Total Amount	:	100
