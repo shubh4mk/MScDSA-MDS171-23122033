@@ -12,5 +12,6 @@
 |Lab02|29/08/23|The Name Collecter's Quest|["Lab02"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab02.ipynb)
 |Lab03|01/09/23|The Tale of Numbers' Harmony|["Lab03"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab03.ipynb)
 |Lab04|04/09/23|A Taste of Success: The Restaurant Management System|["Lab04"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab04.ipynb)
+|Lab05|08/09/23|Mix & Match Calculator|["Lab05"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab05/Lab05.ipynb)
 
 
