@@ -37,7 +37,8 @@ def export_to_file():
     with open("23122033_ShubhamKumar.txt", 'w') as file:
         result = matrices["result matrix"]
         for row in result:
-            file.write(' '.join(map(str, row)) + '\n')       
+            with open('your_file.txt', 'a') as file:
+                file.write(' '.join(str(x) for x in row) + '\n')       
 
 while True:
     print("\nMenu:")
