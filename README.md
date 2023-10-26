@@ -17,5 +17,7 @@
 |Lab07|15/09/23|My Menu Driven Restaurant|["Lab07"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab07/Lab07.py)
 |Lab08|18/09/23|Matrix Multiplication|["Lab08"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/Lab08/Lab08.py)
 |Lab09|29/09/23|ExpenseTracker|["Lab09"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/tree/main/LABS/Lab09)
+|CAC - 1|29/09/23|Genomic Calculation|["CAC- 1"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/tree/main/CAC%20-%201)
+|CAC - 2|29/09/23|Flavor Hub|["CAC- 2"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/tree/main/CAC%20-%202)
 
 
