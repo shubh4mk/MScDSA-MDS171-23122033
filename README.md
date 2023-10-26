@@ -19,5 +19,6 @@
 |Lab09|22/09/23|ExpenseTracker|["Lab09"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/tree/main/LABS/Lab09)
 |CAC - 1|18/09/23|Genomic Calculation|["CAC- 1"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/tree/main/CAC%20-%201)
 |CAC - 2|25/09/23|Flavor Hub|["CAC- 2"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/tree/main/CAC%20-%202)
+|Lab10|22/09/23|Student Marks Details|["Lab10"](https://github.com/shubh4mk/MScDSA-MDS171-23122033/blob/main/LABS/Lab10.ipynb)
 
 
